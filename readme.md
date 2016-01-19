@@ -1,3 +1,5 @@
+##**This modification for [ZloY b:log](https://zloy.one/)**
+
 # WP Maintenance Mode
 
 Adds a splash page to your site that lets visitors know your site is down for maintenance. It's perfect for a coming soon page.
